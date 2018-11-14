@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72324147499",
+    "firebase_url": "https://iotappedu.firebaseio.com",
+    "project_id": "iotappedu",
+    "storage_bucket": "iotappedu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72324147499:android:d1856ceb6234be19",
+        "android_client_info": {
+          "package_name": "br.com.eduardo.iotappedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72324147499-o6insb2ejikpleuo38ssnjok3kk2ej12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.eduardo.iotappedu",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "72324147499-8b5q4i1trakj2vajvcvh1gcodbjkl1sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qD1hefqnn0c6DYbZt4kMrkfG4YsXS18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72324147499-8b5q4i1trakj2vajvcvh1gcodbjkl1sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
